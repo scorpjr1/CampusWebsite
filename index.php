@@ -103,7 +103,7 @@ include "menu.php";
                             <div class="card card-blog">
                                 <div class="card-image">
                                     <a href="#pablo">
-                                        <img class="img" src="/czmec/assets/img/examples/blog8.jpg"/>
+                                        <img class="img" src="/czmec/assets/img/city.jpg"/>
                                     </a>
                                 </div>
                                 <div class="card-content">
@@ -124,7 +124,7 @@ include "menu.php";
                             <div class="card card-blog">
                                 <div class="card-image">
                                     <a href="#pablo">
-                                        <img class="img" src="/czmec/assets/img/examples/blog8.jpg"/>
+                                        <img class="img" src="/czmec/assets/img/city.jpg"/>
                                     </a>
                                 </div>
                                 <div class="card-content">
@@ -145,7 +145,7 @@ include "menu.php";
                             <div class="card card-blog">
                                 <div class="card-image">
                                     <a href="#pablo">
-                                        <img class="img" src="/czmec/assets/img/examples/blog8.jpg"/>
+                                        <img class="img" src="/czmec/assets/img/city.jpg"/>
                                     </a>
                                 </div>
                                 <div class="card-content">
@@ -168,7 +168,7 @@ include "menu.php";
                             <div class="card card-blog">
                                 <div class="card-image">
                                     <a href="#pablo">
-                                        <img class="img" src="/czmec/assets/img/examples/blog8.jpg"/>
+                                        <img class="img" src="/czmec/assets/img/city.jpg"/>
                                     </a>
                                 </div>
                                 <div class="card-content">
